@@ -24,5 +24,5 @@ int main()
 {
     char str1[] = "mete";
     char str2[] = "meta";
-    printf("%d\n",ft_memcmp(a,b,4));
+    printf("%d\n",ft_memcmp(str1,str2,4));
 }*/
